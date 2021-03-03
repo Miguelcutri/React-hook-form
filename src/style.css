@@ -1,0 +1,30 @@
+body{
+    background-image: linear-gradient(to right, #26a2aac9, #1879b1);
+}
+
+input{
+    border-radius: 50px;
+    border: none;
+}
+button{
+    border-radius: 50px;
+    border: none;
+    color: #1879b1;
+    background-color: #ffffff;
+
+}
+
+button:hover{
+    box-shadow: 1px 1px 5px black;
+}
+
+p{
+    color: rgb(209, 45, 45);
+    font-size: 10px;
+}
+.App{
+    background: #ffffff4f;
+    width: 300px;
+    border-radius: 10px;
+    margin: 50px;
+}
